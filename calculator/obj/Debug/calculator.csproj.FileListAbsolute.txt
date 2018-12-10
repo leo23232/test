@@ -1,0 +1,10 @@
+D:\Project\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Project\Calculator\calculator\bin\Debug\calculator.exe
+D:\Project\Calculator\calculator\bin\Debug\calculator.pdb
+D:\Project\Calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Project\Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Project\Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Project\Calculator\calculator\obj\Debug\calculator.exe
+D:\Project\Calculator\calculator\obj\Debug\calculator.pdb
+D:\Project\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\Project\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
